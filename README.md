@@ -1,7 +1,7 @@
 # td-ameritrade algorithmic trading
 
-**this is a full ml implementation for algorithmic trading using data from tda**
-**for just the go tda API hook, see [go-tda](https://github.com/samjtro/go-tda)**
+**this is a full ml implementation for algorithmic trading using data from tda**  
+**for just the go tda API hook, see [go-tda](https://github.com/samjtro/go-tda)**  
 **this project is migrating to go**
 
 ## what is this
